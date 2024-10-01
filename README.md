@@ -70,8 +70,7 @@
 <br/>
 
 <div align="center">
-<img width=325 align="center" src="![image](https://github.com/user-attachments/assets/a7d8624f-f92f-44c7-a9a5-d682f154c6d6)
-" />
+<img width=325 align="center" src="https://raw.githubusercontent.com/Sumeet-162/Google-Resume/main/06f21a161921919.63cd7887d0a70.gif"/>
 </div>
 
 <br/>
