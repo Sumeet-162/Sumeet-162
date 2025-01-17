@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on MERN Stack Projects
  
- 🌱 I’m currently learning React, Node.jd, MongoDB
+ 🌱 I’m currently learning React, Node.js, MongoDB
 
 💬 Check out my portfolio here https://sumeet-162.github.io/Google-Resume/
 
