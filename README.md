@@ -13,7 +13,7 @@
 🎯 Currently Building: **Full-stack MERN Applications**  
 📚 Learning: **React | Node.js | MongoDB | TypeScript**  
 🧭 Exploring: **Next.js | DevOps | Web Security**  
-📂 Portfolio: [sumeet-162.github.io/Google-Resume](https://sumeet-162.github.io/Google-Resume)  
+📂 Portfolio: [https://full-stack-liard-eight.vercel.app/](https://full-stack-liard-eight.vercel.app/)  
 🧊 Fun Fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs.*
 
 </div>
