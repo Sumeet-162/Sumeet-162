@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumeet+K!;" alt="Typing SVG" />
 </h1>
 
+![LinkedIn Banner](https://raw.githubusercontent.com/Sumeet-162/ImageDump/refs/heads/main/LindekInBanner.png)
+ 
 <h3 align="center">🚀 Software Developer | MERN Stack Enthusiast | Based in Bangalore, India 🇮🇳</h3>
 
 ---
